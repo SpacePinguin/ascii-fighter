@@ -1,0 +1,29 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/fredericprosommer/Desktop/Ninja/Map01.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "/Users/fredericprosommer/Desktop/Ninja/Map01.json": {
+            "scale": 0.7469374999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 507.4052380553929,
+                "y": 406.32583047443734
+            }
+        }
+    },
+    "map.height": 19,
+    "map.lastUsedFormat": "json",
+    "map.width": 25,
+    "openFiles": [
+        "/Users/fredericprosommer/Desktop/Ninja/Map01.json"
+    ],
+    "project": "Menu-project.tiled-project",
+    "recentFiles": [
+        "/Users/fredericprosommer/Desktop/Ninja/Map01.json"
+    ]
+}
